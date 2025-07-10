@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git clone:*)",
+      "Bash(ls:*)",
+      "Bash(npm install)",
+      "Bash(docker:*)",
+      "Bash(supabase start:*)",
+      "Bash(cp:*)",
+      "Bash(npm run:*)",
+      "Bash(curl:*)",
+      "Bash(npx update-browserslist-db:*)"
+    ],
+    "deny": []
+  }
+}
