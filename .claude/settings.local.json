@@ -9,7 +9,10 @@
       "Bash(cp:*)",
       "Bash(npm run:*)",
       "Bash(curl:*)",
-      "Bash(npx update-browserslist-db:*)"
+      "Bash(npx update-browserslist-db:*)",
+      "Bash(rm:*)",
+      "Bash(npx supabase db reset:*)",
+      "Bash(pkill:*)"
     ],
     "deny": []
   }
